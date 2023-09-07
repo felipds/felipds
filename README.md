@@ -1,5 +1,8 @@
 ## Oii eu sou o Felipe, estudante e futuro dev!
 
+ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Minha jornada na área de TI me permite combinar minha paixão pela tecnologia com meu profundo interesse por encarar desafios. 
+ Estou em busca de oportunidades de estágio na área de TI, onde posso aplicar meus conhecimentos e capacidades, utilizando linguagens como JavaScript, HTML5 e CSS3.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
