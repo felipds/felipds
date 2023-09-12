@@ -1,4 +1,4 @@
-## Oii eu sou o Felipe, estudante e futuro dev!
+## Oii eu sou o Felipe, futuro dev!
 
  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Minha jornada na área de TI me permite combinar minha paixão pela tecnologia com meu profundo interesse por encarar desafios. 
  Estou em busca de oportunidades de estágio na área de TI, onde posso aplicar meus conhecimentos e capacidades, utilizando linguagens como JavaScript, HTML5 e CSS3.
