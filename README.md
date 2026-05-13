@@ -1,7 +1,8 @@
-## Oii eu sou o Felipe, futuro dev!
+## Olá, sou o Felipe, Dev. Outsystems Júnior!
 
- Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Minha jornada na área de TI me permite combinar minha paixão pela tecnologia com meu profundo interesse por encarar desafios. 
- Estou em busca de oportunidades de estágio na área de TI, onde posso aplicar meus conhecimentos e capacidades, utilizando linguagens como JavaScript, HTML5 e CSS3.
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo há 2 anos como desenvolvedor OutSystems, com experiência em projetos para a Petrobras por meio de consultorias. Minha jornada na área de TI me permitiu desenvolver habilidades em desenvolvimento web utilizando JavaScript, HTML5 e CSS3, além de integrações com APIs REST e SOAP, responsividade e testes automatizados com BDD.
+
+Sou apaixonado por tecnologia, desafios e aprendizado contínuo, buscando constantemente evoluir minhas habilidades e contribuir com soluções eficientes e de qualidade.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
